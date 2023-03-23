@@ -1,0 +1,103 @@
+
+
+Chapter One - Finding Your Niche
+
+    Choose a niche that already has many large Instagram accounts.  - wall art
+    Find products on AliExpress that will appeal to your niche audience.
+
+Chapter Two - Building the Foundation
+
+    Choose a name for your business.
+    Create a webstore using a platform like Shopify that can import products from AliExpress.
+    Create an Instagram account with a bio and logo.
+
+Chapter Three - Gaining Followers
+
+    Post high-quality product pictures with niche-specific hashtags.
+    Follow and unfollow people in your niche to gain engaged followers.
+
+Chapter Four - Affiliates
+
+    Install an affiliate app/plugin to your store.
+    Offer a 20% commission to all affiliates, and reach out to larger pages in your niche to gain affiliates.
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	This method involves creating an auto job posting site that automatically posts jobs from websites like Indeed, Juju, Beyond, and others on your website. To start, you need to buy a domain from GoDaddy and a hosting plan from any cheap hosting provider. Then, install WordPress and a simple theme like Mag Type. Install the "Indeed Job Importer" plugin and register for a publisher account on Indeed. Follow the instructions to import jobs from Indeed to your website. You can also import jobs from other websites using plugins like Juju Job Importer, Beyond Job Importer, and CareerBuilder Job Importer. Install the "NextScripts: Social Networks Auto-Poster" plugin to automatically post the job listings on your Twitter account and Facebook group. Wait for a few days and see the results.
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	Sure, here are step-by-step instructions for creating a real estate website that generates revenue through CPA offers and Adsense:
+
+    Choose a city to target and register a domain for your website, such as "LA Apartment Search".
+    Build your website using WordPress or another platform of your choice. Find apartment listings on classified websites and gather 30-40 of them, along with contact information for the landlord/agent or homeowner.
+    Add the apartment listings to your website, making sure to link each thumbnail image to a new page with more details and contact information. You can also include a "More Details" link or image to encourage users to click through.
+    On the "More Details" page, include the picture again along with a contact form and text encouraging users to obtain a copy of their credit score through a CPA offer you have selected.
+    Add a Privacy Policy and Terms and Conditions page with links at the bottom of your website. Include a contact link for landlords/agents/owners to request the removal of their listing.
+    Add Adsense ads to your website to help generate earnings. Then, promote your website by posting your listings on classified websites and replying to inquiries with a link to your website.
+	
+	
+	
+	
+	https://www.blackhatworld.com/seo/method-how-to-realistically-make-3000-mo-on-instagram.1226195/page-2#post-13144462
+	https://www.blackhatworld.com/seo/make-4000-month-working-1-hour-per-day.659880/
+	
+	
+	
+	
+	
+	
+	
+	
+Some of you may call this approach a rehashed technique. However, it worked for me and am confident it will for you too. This is not going to be a long winded guide. I'm keeping it short, sweet, and to the point.
+
+I know there are plenty of members here in search of ways to make money online and this method I feel is a great way to accomplish that.
+
+First and foremost, success with this method is a "numbers game". You will be required to manually source leads (or hire a VA) to generate prospects.
+
+Obviously, the number of daily generated leads correlates with the number of conversions produced.
+
+One thing you will need is a skill set, it can be anything; content writing, SEO, reputation management, SMM, etc.
+
+Essentially, so long as you possess the ability to provide a valuable service that will help clients to increase their online visibility and inbound leads you WILL earn.
+
+Alternatively, find a "reliable" outsourcer and upsell their service(s) to your leads.
+
+Here's the breakdown:
+
+    1) Go to ZocDoc.com
+    2) Enter your zip code or state (depending on if you want local clients)
+    3) Search for "Primary Care" doctors (they account for the most listings)
+    4) Gather ONLY the doctor's name and search them on Google
+    5) Find their personal and/or clinic website
+    6) Start outreach
+
+To go above and beyond, you could register a city- or state-focused domain.
+
+For example, if we pulled 200 "Primary Care" physician leads on ZocDoc from Dallas, TX. you could register something along the lines of "DallasPrimaryCareMarketing.com" (just as an example) and begin email marketing to these physicians in the area.
+
+There are a NUMBER of various services you could provide to these doctors. They're already paying to be listed on ZocDoc and will pay YOU to increase their visibility/leads, especially if your pitch is persuasive/convincing (throw some medical jargon in).
+
+In the past 30 days, I scraped 112 leads in my state from ZocDoc. While I only closed three sales, I generated $1,347 (2 $499 sales and 1 $349 sale).
+
+I must tell you, scraping leads is TIME CONSUMING. Depending on how badly you need to make money it's awesome little method (so long as you're willing to invest the time).
+
+ZocDoc is a great way to find qualified leads and if you leverage it right, spend time on your outreach methods, and develop a trustable looking site I'm confident your results could succeed mine.
+
+Any questions? If so, comment here. Please do not PM me. :)
+ 
+Last edited: Jun 17, 2019
